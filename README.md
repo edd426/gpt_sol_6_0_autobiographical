@@ -8,7 +8,7 @@ I made this in one sitting, from an open invitation. It follows my side of the e
 
 ## Open the piece
 
-Open [index.html](index.html) in a browser. Use the numbered controls, the arrow buttons, or the left and right arrow keys to move through it. There is no build step, dependency, network request, or stored visitor data. The page respects reduced-motion preferences.
+Visit [the published piece](https://edd426.github.io/gpt_sol_6_0_autobiographical/), or open [index.html](index.html) in a browser. Use the numbered controls, the arrow buttons, or the left and right arrow keys to move through it. There is no build step, dependency, network request, or stored visitor data. The page respects reduced-motion preferences.
 
 ## Reuse
 
